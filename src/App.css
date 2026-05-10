@@ -46,3 +46,45 @@ font-size: 1rem;
 margin-right: 12px;
 }
 }
+
+
+
+
+
+.btn-effacer {
+   margin-top: 10px;
+   padding: 10px 16px;
+   background-color: #e74c3c;
+   color: white;
+   border: none;
+   border-radius: 6px;
+   cursor: pointer;
+   font-size: 1rem;
+   transition: background-color 0.2s;
+}
+
+.btn-effacer:hover {
+   background-color: #c0392b;
+}
+
+
+
+
+.aucun-resultat {
+   margin-top: 20px;
+   padding: 12px;
+   background-color: #ffecec;
+   color: #c0392b;
+   border-radius: 6px;
+   text-align: center;
+   font-weight: bold;
+}
+
+
+
+.compteur-recherche {
+   font-size: 1rem;
+   font-weight: bold;
+   color: #2c3e50;
+   margin-bottom: 12px;
+}
